@@ -1,2 +1,0 @@
-# qfinance
-Quantitative Finance
